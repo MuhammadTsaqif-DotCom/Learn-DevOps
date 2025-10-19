@@ -14,3 +14,8 @@
 - "I am learning DevOps" - Saya sedang belajar DevOps
 - "This is my repository" - Ini adalah repository saya
 - "I will commit my changes" - Saya akan commit perubahan saya
+
+- 
+  **My Favorite Quote:**
+- 🇮🇩: "Perjalanan ribuan mil dimulai dari satu langkah"
+- 🇺🇸: **"A journey of a thousand miles begins with a single step"**
